@@ -14,8 +14,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url("C:\Users\hafiz\OneDrive\Desktop\Login\frontendee\background.png");
-    background-size: cover;
+    background-color: blue;
     background-position: center;
     background-repeat: no-repeat;
     z-index: 1;  /* Lower z-index for background */

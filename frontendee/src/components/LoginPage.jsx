@@ -25,7 +25,7 @@ function LoginPage() {
   };
 
   return (
-    <div className="login-page">
+    <div>
       <div className="header-login-container">
         <div className="page-header">
           <h1 className="main-heading">PLANIT</h1>
